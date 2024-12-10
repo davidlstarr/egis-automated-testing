@@ -1,0 +1,26 @@
+2024-12-10 13:40:07,550 - INFO - Starting test suite execution
+2024-12-10 13:40:08,392 - INFO - Test suite setup complete
+2024-12-10 13:40:15,370 - INFO - Test Passed: Successfully navigated to TDAT User Guide page
+2024-12-10 13:40:15,401 - INFO - Test Passed: TDAT User Guide functionality verified
+2024-12-10 13:40:20,476 - INFO - Test Passed: Menu access verified
+2024-12-10 13:40:30,734 - INFO - Test Passed: Address input functionality verified
+2024-12-10 13:40:35,784 - INFO - Test Passed: Advanced Search functionality verified
+2024-12-10 13:40:42,950 - INFO - Test Passed: Successfully navigated to Alaska Special Instructions page
+2024-12-10 13:40:42,966 - INFO - Test Passed: Alaska Special Instructions displayed successfully
+2024-12-10 13:40:54,958 - INFO - Test Passed: Map interaction and tribal information verified
+2024-12-10 13:41:10,091 - INFO - Excel file successfully downloaded: TDAT_Report_4ef257c0-b726-11ef-bba4-005056aa7b20.xlsx
+2024-12-10 13:41:17,308 - INFO - Test Passed: Feedback and Corrections functionality verified
+2024-12-10 13:41:23,668 - INFO - Test Passed: Get All Tribes functionality verified
+2024-12-10 13:41:33,843 - INFO - Test Passed: Successfully navigated to HUD Exchange page
+2024-12-10 13:41:33,902 - INFO - Test Passed: HUD Exchange menu functionality verified
+2024-12-10 13:41:47,047 - INFO - Test Passed: Successfully navigated to HUD states page
+2024-12-10 13:41:47,106 - INFO - Test Passed: Information by State functionality verified
+2024-12-10 13:41:52,174 - INFO - Test Passed: Map zoom functionality verified
+2024-12-10 13:41:58,175 - INFO - Test Passed: Print Page test verified
+2024-12-10 13:42:08,275 - INFO - Test Passed: Successfully navigated to Consultation process page
+2024-12-10 13:42:08,333 - INFO - Test Passed: Process for Consultation functionality verified
+2024-12-10 13:42:10,285 - INFO - Test Passed: Able to click the "Search For Tribes" button.
+2024-12-10 13:42:15,602 - INFO - Test Passed: State/County selection verified
+2024-12-10 13:42:20,645 - INFO - Test Passed: Tribe selection verified
+2024-12-10 13:42:20,646 - INFO - Test suite teardown starting
+2024-12-10 13:42:20,778 - INFO - Test suite completed

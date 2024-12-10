@@ -1,0 +1,289 @@
+2024-12-10 12:40:27,326 - INFO - Test suite setup complete
+2024-12-10 12:40:34,313 - INFO - Test Passed: Successfully navigated to TDAT User Guide page
+2024-12-10 12:40:34,329 - INFO - Test Passed: TDAT User Guide functionality verified
+2024-12-10 12:40:39,391 - INFO - Test Passed: Menu access verified
+2024-12-10 12:40:47,461 - INFO - Test Passed: Address input functionality verified
+2024-12-10 12:40:59,559 - ERROR - Test Failed: Advanced Search test failed: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+0   chromedriver                        0x000000010330fb08 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000103308358 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000102d70324 cxxbridge1$string$len + 88824
+3   chromedriver                        0x0000000102db583c cxxbridge1$string$len + 372752
+4   chromedriver                        0x0000000102daafbc cxxbridge1$string$len + 329616
+5   chromedriver                        0x0000000102daaa10 cxxbridge1$string$len + 328164
+6   chromedriver                        0x0000000102dee0fc cxxbridge1$string$len + 604368
+7   chromedriver                        0x0000000102da90b0 cxxbridge1$string$len + 321668
+8   chromedriver                        0x0000000102da9d00 cxxbridge1$string$len + 324820
+9   chromedriver                        0x00000001032dae4c cxxbridge1$str$ptr + 3435328
+10  chromedriver                        0x00000001032de164 cxxbridge1$str$ptr + 3448408
+11  chromedriver                        0x00000001032c21c0 cxxbridge1$str$ptr + 3333812
+12  chromedriver                        0x00000001032dea24 cxxbridge1$str$ptr + 3450648
+13  chromedriver                        0x00000001032b39cc cxxbridge1$str$ptr + 3274432
+14  chromedriver                        0x00000001032f9138 cxxbridge1$str$ptr + 3558956
+15  chromedriver                        0x00000001032f92b4 cxxbridge1$str$ptr + 3559336
+16  chromedriver                        0x0000000103307fcc cxxbridge1$str$ptr + 3620032
+17  libsystem_pthread.dylib             0x000000019dbff2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000019dbfa0fc thread_start + 8
+
+2024-12-10 12:41:11,660 - ERROR - Test Failed: Alaska Special Instructions test failed: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+0   chromedriver                        0x000000010330fb08 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000103308358 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000102d70324 cxxbridge1$string$len + 88824
+3   chromedriver                        0x0000000102db583c cxxbridge1$string$len + 372752
+4   chromedriver                        0x0000000102daafbc cxxbridge1$string$len + 329616
+5   chromedriver                        0x0000000102daaa10 cxxbridge1$string$len + 328164
+6   chromedriver                        0x0000000102dee0fc cxxbridge1$string$len + 604368
+7   chromedriver                        0x0000000102da90b0 cxxbridge1$string$len + 321668
+8   chromedriver                        0x0000000102da9d00 cxxbridge1$string$len + 324820
+9   chromedriver                        0x00000001032dae4c cxxbridge1$str$ptr + 3435328
+10  chromedriver                        0x00000001032de164 cxxbridge1$str$ptr + 3448408
+11  chromedriver                        0x00000001032c21c0 cxxbridge1$str$ptr + 3333812
+12  chromedriver                        0x00000001032dea24 cxxbridge1$str$ptr + 3450648
+13  chromedriver                        0x00000001032b39cc cxxbridge1$str$ptr + 3274432
+14  chromedriver                        0x00000001032f9138 cxxbridge1$str$ptr + 3558956
+15  chromedriver                        0x00000001032f92b4 cxxbridge1$str$ptr + 3559336
+16  chromedriver                        0x0000000103307fcc cxxbridge1$str$ptr + 3620032
+17  libsystem_pthread.dylib             0x000000019dbff2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000019dbfa0fc thread_start + 8
+
+2024-12-10 12:41:23,789 - ERROR - Test Failed: Map interaction test failed: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+0   chromedriver                        0x000000010330fb08 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000103308358 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000102d70324 cxxbridge1$string$len + 88824
+3   chromedriver                        0x0000000102db583c cxxbridge1$string$len + 372752
+4   chromedriver                        0x0000000102daafbc cxxbridge1$string$len + 329616
+5   chromedriver                        0x0000000102daaa10 cxxbridge1$string$len + 328164
+6   chromedriver                        0x0000000102dee0fc cxxbridge1$string$len + 604368
+7   chromedriver                        0x0000000102da90b0 cxxbridge1$string$len + 321668
+8   chromedriver                        0x0000000102da9d00 cxxbridge1$string$len + 324820
+9   chromedriver                        0x00000001032dae4c cxxbridge1$str$ptr + 3435328
+10  chromedriver                        0x00000001032de164 cxxbridge1$str$ptr + 3448408
+11  chromedriver                        0x00000001032c21c0 cxxbridge1$str$ptr + 3333812
+12  chromedriver                        0x00000001032dea24 cxxbridge1$str$ptr + 3450648
+13  chromedriver                        0x00000001032b39cc cxxbridge1$str$ptr + 3274432
+14  chromedriver                        0x00000001032f9138 cxxbridge1$str$ptr + 3558956
+15  chromedriver                        0x00000001032f92b4 cxxbridge1$str$ptr + 3559336
+16  chromedriver                        0x0000000103307fcc cxxbridge1$str$ptr + 3620032
+17  libsystem_pthread.dylib             0x000000019dbff2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000019dbfa0fc thread_start + 8
+
+2024-12-10 12:41:39,906 - INFO - Excel file successfully downloaded: TDAT_Report_fed23ba1-b71d-11ef-9877-005056aa7b20.xlsx
+2024-12-10 12:41:52,086 - ERROR - Test Failed: Feedback and Corrections test failed: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+0   chromedriver                        0x000000010330fb08 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000103308358 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000102d70324 cxxbridge1$string$len + 88824
+3   chromedriver                        0x0000000102db583c cxxbridge1$string$len + 372752
+4   chromedriver                        0x0000000102daafbc cxxbridge1$string$len + 329616
+5   chromedriver                        0x0000000102daaa10 cxxbridge1$string$len + 328164
+6   chromedriver                        0x0000000102dee0fc cxxbridge1$string$len + 604368
+7   chromedriver                        0x0000000102da90b0 cxxbridge1$string$len + 321668
+8   chromedriver                        0x0000000102da9d00 cxxbridge1$string$len + 324820
+9   chromedriver                        0x00000001032dae4c cxxbridge1$str$ptr + 3435328
+10  chromedriver                        0x00000001032de164 cxxbridge1$str$ptr + 3448408
+11  chromedriver                        0x00000001032c21c0 cxxbridge1$str$ptr + 3333812
+12  chromedriver                        0x00000001032dea24 cxxbridge1$str$ptr + 3450648
+13  chromedriver                        0x00000001032b39cc cxxbridge1$str$ptr + 3274432
+14  chromedriver                        0x00000001032f9138 cxxbridge1$str$ptr + 3558956
+15  chromedriver                        0x00000001032f92b4 cxxbridge1$str$ptr + 3559336
+16  chromedriver                        0x0000000103307fcc cxxbridge1$str$ptr + 3620032
+17  libsystem_pthread.dylib             0x000000019dbff2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000019dbfa0fc thread_start + 8
+
+2024-12-10 12:41:58,284 - INFO - Test Passed: Get All Tribes functionality verified
+2024-12-10 12:42:10,406 - ERROR - Test Failed: HUD Exchange menu test failed: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+0   chromedriver                        0x000000010330fb08 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000103308358 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000102d70324 cxxbridge1$string$len + 88824
+3   chromedriver                        0x0000000102db583c cxxbridge1$string$len + 372752
+4   chromedriver                        0x0000000102daafbc cxxbridge1$string$len + 329616
+5   chromedriver                        0x0000000102daaa10 cxxbridge1$string$len + 328164
+6   chromedriver                        0x0000000102dee0fc cxxbridge1$string$len + 604368
+7   chromedriver                        0x0000000102da90b0 cxxbridge1$string$len + 321668
+8   chromedriver                        0x0000000102da9d00 cxxbridge1$string$len + 324820
+9   chromedriver                        0x00000001032dae4c cxxbridge1$str$ptr + 3435328
+10  chromedriver                        0x00000001032de164 cxxbridge1$str$ptr + 3448408
+11  chromedriver                        0x00000001032c21c0 cxxbridge1$str$ptr + 3333812
+12  chromedriver                        0x00000001032dea24 cxxbridge1$str$ptr + 3450648
+13  chromedriver                        0x00000001032b39cc cxxbridge1$str$ptr + 3274432
+14  chromedriver                        0x00000001032f9138 cxxbridge1$str$ptr + 3558956
+15  chromedriver                        0x00000001032f92b4 cxxbridge1$str$ptr + 3559336
+16  chromedriver                        0x0000000103307fcc cxxbridge1$str$ptr + 3620032
+17  libsystem_pthread.dylib             0x000000019dbff2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000019dbfa0fc thread_start + 8
+
+2024-12-10 12:42:22,475 - ERROR - Test Failed: Information by State test failed: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+0   chromedriver                        0x000000010330fb08 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000103308358 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000102d70324 cxxbridge1$string$len + 88824
+3   chromedriver                        0x0000000102db583c cxxbridge1$string$len + 372752
+4   chromedriver                        0x0000000102daafbc cxxbridge1$string$len + 329616
+5   chromedriver                        0x0000000102daaa10 cxxbridge1$string$len + 328164
+6   chromedriver                        0x0000000102dee0fc cxxbridge1$string$len + 604368
+7   chromedriver                        0x0000000102da90b0 cxxbridge1$string$len + 321668
+8   chromedriver                        0x0000000102da9d00 cxxbridge1$string$len + 324820
+9   chromedriver                        0x00000001032dae4c cxxbridge1$str$ptr + 3435328
+10  chromedriver                        0x00000001032de164 cxxbridge1$str$ptr + 3448408
+11  chromedriver                        0x00000001032c21c0 cxxbridge1$str$ptr + 3333812
+12  chromedriver                        0x00000001032dea24 cxxbridge1$str$ptr + 3450648
+13  chromedriver                        0x00000001032b39cc cxxbridge1$str$ptr + 3274432
+14  chromedriver                        0x00000001032f9138 cxxbridge1$str$ptr + 3558956
+15  chromedriver                        0x00000001032f92b4 cxxbridge1$str$ptr + 3559336
+16  chromedriver                        0x0000000103307fcc cxxbridge1$str$ptr + 3620032
+17  libsystem_pthread.dylib             0x000000019dbff2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000019dbfa0fc thread_start + 8
+
+2024-12-10 12:42:34,655 - ERROR - Test Failed: Map zoom test failed: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+0   chromedriver                        0x000000010330fb08 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000103308358 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000102d70324 cxxbridge1$string$len + 88824
+3   chromedriver                        0x0000000102db583c cxxbridge1$string$len + 372752
+4   chromedriver                        0x0000000102daafbc cxxbridge1$string$len + 329616
+5   chromedriver                        0x0000000102daaa10 cxxbridge1$string$len + 328164
+6   chromedriver                        0x0000000102dee0fc cxxbridge1$string$len + 604368
+7   chromedriver                        0x0000000102da90b0 cxxbridge1$string$len + 321668
+8   chromedriver                        0x0000000102da9d00 cxxbridge1$string$len + 324820
+9   chromedriver                        0x00000001032dae4c cxxbridge1$str$ptr + 3435328
+10  chromedriver                        0x00000001032de164 cxxbridge1$str$ptr + 3448408
+11  chromedriver                        0x00000001032c21c0 cxxbridge1$str$ptr + 3333812
+12  chromedriver                        0x00000001032dea24 cxxbridge1$str$ptr + 3450648
+13  chromedriver                        0x00000001032b39cc cxxbridge1$str$ptr + 3274432
+14  chromedriver                        0x00000001032f9138 cxxbridge1$str$ptr + 3558956
+15  chromedriver                        0x00000001032f92b4 cxxbridge1$str$ptr + 3559336
+16  chromedriver                        0x0000000103307fcc cxxbridge1$str$ptr + 3620032
+17  libsystem_pthread.dylib             0x000000019dbff2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000019dbfa0fc thread_start + 8
+
+2024-12-10 12:42:39,865 - INFO - Test Passed: Print Page test verified
+2024-12-10 12:42:51,953 - ERROR - Test Failed: Process for Consultation test failed: Message: element not interactable
+  (Session info: chrome=131.0.6778.109)
+Stacktrace:
+0   chromedriver                        0x000000010330fb08 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000103308358 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000102d70324 cxxbridge1$string$len + 88824
+3   chromedriver                        0x0000000102db583c cxxbridge1$string$len + 372752
+4   chromedriver                        0x0000000102daafbc cxxbridge1$string$len + 329616
+5   chromedriver                        0x0000000102daaa10 cxxbridge1$string$len + 328164
+6   chromedriver                        0x0000000102dee0fc cxxbridge1$string$len + 604368
+7   chromedriver                        0x0000000102da90b0 cxxbridge1$string$len + 321668
+8   chromedriver                        0x0000000102da9d00 cxxbridge1$string$len + 324820
+9   chromedriver                        0x00000001032dae4c cxxbridge1$str$ptr + 3435328
+10  chromedriver                        0x00000001032de164 cxxbridge1$str$ptr + 3448408
+11  chromedriver                        0x00000001032c21c0 cxxbridge1$str$ptr + 3333812
+12  chromedriver                        0x00000001032dea24 cxxbridge1$str$ptr + 3450648
+13  chromedriver                        0x00000001032b39cc cxxbridge1$str$ptr + 3274432
+14  chromedriver                        0x00000001032f9138 cxxbridge1$str$ptr + 3558956
+15  chromedriver                        0x00000001032f92b4 cxxbridge1$str$ptr + 3559336
+16  chromedriver                        0x0000000103307fcc cxxbridge1$str$ptr + 3620032
+17  libsystem_pthread.dylib             0x000000019dbff2e4 _pthread_start + 136
+18  libsystem_pthread.dylib             0x000000019dbfa0fc thread_start + 8
+
+2024-12-10 12:42:54,021 - INFO - Test Passed: Able to click the "Search For Tribes" button.
+2024-12-10 12:42:59,369 - INFO - Test Passed: State/County selection verified
+2024-12-10 12:43:12,521 - ERROR - Test Failed: Tribe selection test failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//option[text()='Aroostook Band of Micmacs']"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010330fb08 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000103308358 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000102d704b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000102db4898 cxxbridge1$string$len + 368748
+4   chromedriver                        0x0000000102dee0fc cxxbridge1$string$len + 604368
+5   chromedriver                        0x0000000102da90b0 cxxbridge1$string$len + 321668
+6   chromedriver                        0x0000000102da9d00 cxxbridge1$string$len + 324820
+7   chromedriver                        0x00000001032dae4c cxxbridge1$str$ptr + 3435328
+8   chromedriver                        0x00000001032de164 cxxbridge1$str$ptr + 3448408
+9   chromedriver                        0x00000001032c21c0 cxxbridge1$str$ptr + 3333812
+10  chromedriver                        0x00000001032dea24 cxxbridge1$str$ptr + 3450648
+11  chromedriver                        0x00000001032b39cc cxxbridge1$str$ptr + 3274432
+12  chromedriver                        0x00000001032f9138 cxxbridge1$str$ptr + 3558956
+13  chromedriver                        0x00000001032f92b4 cxxbridge1$str$ptr + 3559336
+14  chromedriver                        0x0000000103307fcc cxxbridge1$str$ptr + 3620032
+15  libsystem_pthread.dylib             0x000000019dbff2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019dbfa0fc thread_start + 8
+
+2024-12-10 12:43:12,524 - INFO - Test suite teardown starting
+2024-12-10 12:43:12,638 - INFO - Test suite completed
+2024-12-10 12:49:22,168 - INFO - Test suite setup complete
+2024-12-10 12:49:23,878 - INFO - Test Passed: Able to click the "Search For Tribes" button.
+2024-12-10 12:49:23,878 - INFO - Test suite teardown starting
+2024-12-10 12:49:23,959 - INFO - Test suite completed
+2024-12-10 12:50:15,640 - INFO - Test suite setup complete
+2024-12-10 12:50:17,341 - INFO - Test Passed: Able to click the "Search For Tribes" button.
+2024-12-10 12:50:17,341 - INFO - Test suite teardown starting
+2024-12-10 12:50:17,418 - INFO - Test suite completed
+2024-12-10 12:51:12,400 - INFO - Test suite setup complete
+2024-12-10 12:51:14,941 - INFO - Test Passed: Able to click the "Search For Tribes" button.
+2024-12-10 12:51:14,941 - INFO - Test suite teardown starting
+2024-12-10 12:51:15,020 - INFO - Test suite completed
+2024-12-10 12:51:31,339 - INFO - Test suite setup complete
+2024-12-10 12:51:33,906 - INFO - Test Passed: Able to click the "Search For Tribes" button.
+2024-12-10 12:51:33,906 - INFO - Test suite teardown starting
+2024-12-10 12:51:33,987 - INFO - Test suite completed
+2024-12-10 12:52:17,098 - INFO - Test suite setup complete
+2024-12-10 12:52:24,778 - INFO - Test Passed: Feedback and Corrections functionality verified
+2024-12-10 12:52:26,722 - INFO - Test Passed: Able to click the "Search For Tribes" button.
+2024-12-10 12:52:26,723 - INFO - Test suite teardown starting
+2024-12-10 12:52:26,811 - INFO - Test suite completed
+2024-12-10 12:54:17,972 - INFO - WebDriver initialized successfully
+2024-12-10 12:54:17,978 - INFO - Test suite setup complete
+2024-12-10 12:54:24,955 - INFO - Test Passed: Feedback and Corrections functionality verified
+2024-12-10 12:54:26,950 - INFO - Test Passed: Able to click the "Search For Tribes" button.
+2024-12-10 12:54:26,951 - INFO - Test suite teardown starting
+2024-12-10 12:54:27,041 - INFO - Test suite completed
+2024-12-10 13:35:36,768 - INFO - Test suite setup complete
+2024-12-10 13:35:43,645 - INFO - Test Passed: Successfully navigated to TDAT User Guide page
+2024-12-10 13:35:43,661 - INFO - Test Passed: TDAT User Guide functionality verified
+2024-12-10 13:35:48,735 - INFO - Test Passed: Menu access verified
+2024-12-10 13:35:56,877 - INFO - Test Passed: Address input functionality verified
+2024-12-10 13:36:01,910 - INFO - Test Passed: Advanced Search functionality verified
+2024-12-10 13:36:08,948 - INFO - Test Passed: Successfully navigated to Alaska Special Instructions page
+2024-12-10 13:36:08,965 - INFO - Test Passed: Alaska Special Instructions displayed successfully
+2024-12-10 13:36:20,852 - INFO - Test Passed: Map interaction and tribal information verified
+2024-12-10 13:36:36,685 - INFO - Excel file successfully downloaded: TDAT_Report_ac15d680-b725-11ef-ab71-005056aa7b20.xlsx
+2024-12-10 13:36:43,796 - INFO - Test Passed: Feedback and Corrections functionality verified
+2024-12-10 13:36:50,220 - INFO - Test Passed: Get All Tribes functionality verified
+2024-12-10 13:37:00,396 - INFO - Test Passed: Successfully navigated to HUD Exchange page
+2024-12-10 13:37:00,457 - INFO - Test Passed: HUD Exchange menu functionality verified
+2024-12-10 13:37:13,570 - INFO - Test Passed: Successfully navigated to HUD states page
+2024-12-10 13:37:13,627 - INFO - Test Passed: Information by State functionality verified
+2024-12-10 13:37:18,656 - INFO - Test Passed: Map zoom functionality verified
+2024-12-10 13:37:23,884 - INFO - Test Passed: Print Page test verified
+2024-12-10 13:37:33,995 - INFO - Test Passed: Successfully navigated to Consultation process page
+2024-12-10 13:37:34,056 - INFO - Test Passed: Process for Consultation functionality verified
+2024-12-10 13:37:36,044 - INFO - Test Passed: Able to click the "Search For Tribes" button.
+2024-12-10 13:37:41,255 - INFO - Test Passed: State/County selection verified
+2024-12-10 13:37:54,334 - ERROR - Test Failed: Tribe selection test failed: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//option[text()='Aroostook Band of Micmacs']"}
+  (Session info: chrome=131.0.6778.109); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+0   chromedriver                        0x000000010552bb08 cxxbridge1$str$ptr + 3651580
+1   chromedriver                        0x0000000105524358 cxxbridge1$str$ptr + 3620940
+2   chromedriver                        0x0000000104f8c4b4 cxxbridge1$string$len + 89224
+3   chromedriver                        0x0000000104fd0898 cxxbridge1$string$len + 368748
+4   chromedriver                        0x000000010500a0fc cxxbridge1$string$len + 604368
+5   chromedriver                        0x0000000104fc50b0 cxxbridge1$string$len + 321668
+6   chromedriver                        0x0000000104fc5d00 cxxbridge1$string$len + 324820
+7   chromedriver                        0x00000001054f6e4c cxxbridge1$str$ptr + 3435328
+8   chromedriver                        0x00000001054fa164 cxxbridge1$str$ptr + 3448408
+9   chromedriver                        0x00000001054de1c0 cxxbridge1$str$ptr + 3333812
+10  chromedriver                        0x00000001054faa24 cxxbridge1$str$ptr + 3450648
+11  chromedriver                        0x00000001054cf9cc cxxbridge1$str$ptr + 3274432
+12  chromedriver                        0x0000000105515138 cxxbridge1$str$ptr + 3558956
+13  chromedriver                        0x00000001055152b4 cxxbridge1$str$ptr + 3559336
+14  chromedriver                        0x0000000105523fcc cxxbridge1$str$ptr + 3620032
+15  libsystem_pthread.dylib             0x000000019dbff2e4 _pthread_start + 136
+16  libsystem_pthread.dylib             0x000000019dbfa0fc thread_start + 8
+
+2024-12-10 13:37:54,393 - INFO - Test suite teardown starting
+2024-12-10 13:37:54,543 - INFO - Test suite completed
