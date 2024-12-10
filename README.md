@@ -16,7 +16,7 @@ This repository contains automated test suites for various EGIS (Enterprise Geog
 
 1. Clone the repository:
 - `git clone [repository-url]`
-- `cd egis-test-suite`
+- `cd egis-automated-testing`
 2. Create and activate a virtual environment (recommended):
 - `python -m venv venv`
 - `source venv/bin/activate` # On Windows: `venv\Scripts\activate`
