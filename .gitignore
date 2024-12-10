@@ -2,3 +2,4 @@ node_modules
 path
 .venv
 .DS_Store
+*_tests.log

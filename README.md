@@ -1,4 +1,4 @@
-# EGIS Applications Test Suite
+# EGIS Applications Regression Testing
 
 ## Overview
 This repository contains automated test suites for various EGIS (Enterprise Geographic Information System) applications, including TDAT (Tribal Directory Assessment Tool). The tests are written in Python using Selenium WebDriver for browser automation and unittest for test organization.
