@@ -131,6 +131,30 @@ class TDMTSiteNavigationTests(unittest.TestCase):
         option.click()
         time.sleep(1)
 
+    def login(self):
+        """
+        Logs in to the TDAT site with the default credentials.
+        """
+        self.driver.get(f"https://{self.environment_url}.hud.gov/TDMT/")
+        self.close_splash_screen()
+        self.driver.find_element(By.ID, "username").send_keys("test")
+        self.driver.find_element(By.ID, "password").send_keys("test")
+        self.driver.find_element(By.CSS_SELECTOR, ".btn-primary").click()
+        time.sleep(2)
+
+    def test_login(self):
+        """
+        Test Case: Login to the TDAT site
+        """
+        self.logger.info("Starting Login Test")
+        self.login()
+        self.assertTrue(
+            self.verify_url_and_log(
+                f"https://{self.environment_url}.hud.gov/TDMT/tdmt/index.html",
+                "TDAT Home Page",
+            )
+        )
+
     @classmethod
     def tearDownClass(cls):
         """
@@ -144,4 +168,3 @@ class TDMTSiteNavigationTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-
