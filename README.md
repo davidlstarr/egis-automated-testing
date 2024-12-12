@@ -16,7 +16,7 @@ This repository contains automated test suites for various EGIS (Enterprise Geog
 
 1. Clone the repository:
 - `git clone [repository-url]`
-- `cd egis-automated-testing`
+- `cd egis-test-suite`
 2. Create and activate a virtual environment (recommended):
 - `python -m venv venv`
 - `source venv/bin/activate` # On Windows: `venv\Scripts\activate`
@@ -24,14 +24,16 @@ This repository contains automated test suites for various EGIS (Enterprise Geog
 - `pip install -r requirements.txt`
 
 ## Project Structure
-- **egis-automated-testing/**
-  - **apps/**
-    - **TDAT/**
-      - `tdat_test.py`
-      - `README.md`
-    - **Other Apps/**
-  - `requirements.txt`
-  - `README.md`
+<pre>
+egis-automated-testing/
+├── apps/
+│   ├── TDAT/
+│   │   ├── tdat_test.py
+│   │   └── README.md
+│   └── [Other Apps]/
+├── requirements.txt
+└── README.md
+</pre>
 
 ## Running Tests
 ### Running All Tests
